@@ -41,15 +41,3 @@ Once connected, you can:
 1. List collections - Shows all available collections
 2. View collection details - Displays collection information and content preview
 3. Exit - Close the viewer
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
