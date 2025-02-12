@@ -1,0 +1,68 @@
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE - PyCharm, VSCode, etc
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Distribution/Packaging
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Unit test / coverage reports
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
